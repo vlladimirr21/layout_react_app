@@ -1,0 +1,12 @@
+/* ковер - вдруг измениться фон*/
+
+.header {
+  background-size: cover;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header-logo {
+  padding: 20px;
+  align-items: center;
+}

@@ -1,0 +1,25 @@
+.prices {
+  align-items: center;
+}
+
+.containers {
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.discount-container {
+  background-color: #ffffff;
+  border-radius: 14px;
+  width: 250px;
+  padding: 10px;
+  filter: drop-shadow(4px 4px 10px #0000000d);
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.cb_types {
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 0;
+}

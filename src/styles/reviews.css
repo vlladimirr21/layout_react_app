@@ -1,0 +1,12 @@
+.reviews {
+  align-items: center;
+}
+
+.review-1,
+.review-2 {
+  margin: 20px;
+}
+
+.review-2 {
+  align-self: flex-end;
+}

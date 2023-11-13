@@ -1,0 +1,15 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  width: max-content;
+  background-color: #fcfcfc;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+}
